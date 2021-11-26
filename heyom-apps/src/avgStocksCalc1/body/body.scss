@@ -1,0 +1,25 @@
+.body{
+    padding-top: 50px;
+    .app1{
+        height: 200px;
+        width: 165px;
+        // background-color: red;
+        border-radius: 25px;
+        background-image: linear-gradient(to top, #E75F5F , #FF8080);
+        box-shadow: 0px 4px 23px 0px #FFBFBF;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        img{
+            // color: white;
+            // --color_fill:white;
+            width: 100px;
+            height: 100px;
+            // background-color: yellow;
+        }
+        span{
+            color: white;
+        }
+    }
+}
